@@ -1,0 +1,7 @@
+D:\trash\3 lvl\6\comp_sys\lab_2\t3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\trash\3 lvl\6\comp_sys\lab_2\t3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\trash\3 lvl\6\comp_sys\lab_2\t3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\trash\3 lvl\6\comp_sys\lab_2\t3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\trash\3 lvl\6\comp_sys\lab_2\t3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\trash\3 lvl\6\comp_sys\lab_2\t3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\trash\3 lvl\6\comp_sys\lab_2\t3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

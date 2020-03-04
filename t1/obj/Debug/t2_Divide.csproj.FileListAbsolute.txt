@@ -1,0 +1,14 @@
+C:\Univ\comp_sys\lab_2\t1\bin\Debug\t1.exe.config
+C:\Univ\comp_sys\lab_2\t1\bin\Debug\t1.exe
+C:\Univ\comp_sys\lab_2\t1\bin\Debug\t1.pdb
+C:\Univ\comp_sys\lab_2\t1\obj\Debug\t2_Divide.csprojAssemblyReference.cache
+C:\Univ\comp_sys\lab_2\t1\obj\Debug\t2_Divide.csproj.CoreCompileInputs.cache
+C:\Univ\comp_sys\lab_2\t1\obj\Debug\t1.exe
+C:\Univ\comp_sys\lab_2\t1\obj\Debug\t1.pdb
+D:\trash\3 lvl\6\comp_sys\lab_2\t1\bin\Debug\t1.exe.config
+D:\trash\3 lvl\6\comp_sys\lab_2\t1\bin\Debug\t1.exe
+D:\trash\3 lvl\6\comp_sys\lab_2\t1\bin\Debug\t1.pdb
+D:\trash\3 lvl\6\comp_sys\lab_2\t1\obj\Debug\t2_Divide.csprojAssemblyReference.cache
+D:\trash\3 lvl\6\comp_sys\lab_2\t1\obj\Debug\t2_Divide.csproj.CoreCompileInputs.cache
+D:\trash\3 lvl\6\comp_sys\lab_2\t1\obj\Debug\t1.exe
+D:\trash\3 lvl\6\comp_sys\lab_2\t1\obj\Debug\t1.pdb
